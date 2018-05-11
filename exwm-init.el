@@ -18,7 +18,7 @@
 
 ;; Emacs server is not required to run EXWM but it has some interesting uses
 ;; (see next section).
-(server-start)
+;  (server-start)
 
 ;;;; Below are configurations for EXWM.
 
