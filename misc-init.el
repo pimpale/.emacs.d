@@ -34,5 +34,5 @@
 
 
 
-
+(set-frame-font "xos4 Terminus 12" nil t)
 (setq vc-follow-symlinks nil)

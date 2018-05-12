@@ -4,7 +4,7 @@
 
 
 (load (concat user-emacs-directory "misc-init.el"))
- ;;(load (concat user-emacs-directory "exwm-init.el"))
+(load (concat user-emacs-directory "exwm-init.el"))
 (load (concat user-emacs-directory "evil-init.el"))
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
