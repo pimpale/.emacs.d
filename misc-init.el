@@ -33,6 +33,6 @@
 
 
 
-
-(set-frame-font "xos4 Terminus 12" nil t)
+(load-theme 'misterioso)
+(set-frame-font "xos4 Terminus 14" nil t)
 (setq vc-follow-symlinks nil)
