@@ -1,0 +1,2 @@
+(require 'javadoc-lookup)
+
